@@ -38,4 +38,6 @@ Durante o ciclo de validação e refinamento do projeto, identifiquei oportunida
 * Engenharia de Requisitos (BRD / User Stories)
 * Modelagem de Processos de Negócio (BPMN)
 * Visão de Produto e Gestão de Backlog (PO)
-* Domínio de Regras de Negócio de Transportes (TMS)
+* Domínio de Regras de Negócio de Transportes (TMS)]
+
+* [Voltar ao Perfil](https://github.com/ElaineSouza88)
